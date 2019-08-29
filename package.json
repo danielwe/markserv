@@ -69,6 +69,7 @@
     "url": "http://github.com/markserv/markserv.git"
   },
   "dependencies": {
+    "@iktakahiro/markdown-it-katex": "^3.1.0",
     "analyze-deps": "^2.0.0",
     "bluebird": "^3.4.7",
     "chalk": "^2.4.0",

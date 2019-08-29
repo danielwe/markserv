@@ -24,7 +24,7 @@
 - Directory indexes
 - MIME Type file support
 
-Supporting: [MathJax](tests/mathjax.md), [Chinese Characters](tests/测试.md), [Table of Contents](tests/toc.md), [Tables](tests/tables.md), [Heading Anchors](tests/links.md)
+Supporting: [KaTeX](tests/math.md), [Chinese Characters](tests/测试.md), [Table of Contents](tests/toc.md), [Tables](tests/tables.md), [Heading Anchors](tests/links.md)
 
 <p align="center">
 	<img alt="Markserv directory index" src="media/markserv-directory-listing.png" width="100%">
